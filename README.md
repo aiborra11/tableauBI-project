@@ -5,7 +5,7 @@ Overview
 The goal of this project is to practice what we have learned in the Business Intelligence chapter. For this project, I will choose a data set, explore it using Tableau, and put together a Story for presentation showing the insights I have derived from the data. Defend and explain the data in the following lesson.  
 
 **Dataset:** https://www.kaggle.com/blastchar/telco-customer-churn
-**\nTableau doc:** https://public.tableau.com/profile/alejandro1702#!/vizhome/Tableau-projectAlejandroIborra/Slides
+**\n Tableau doc:** https://public.tableau.com/profile/alejandro1702#!/vizhome/Tableau-projectAlejandroIborra/Slides
 
 Roadmap I followed for the project:
 1. Understand the data provided in the dataset.
